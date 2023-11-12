@@ -1,2 +1,2 @@
 # tyleransom.github.io
-Repository for Yan Hao's academic research website.
+Repository for Yan Hao's academic personal website.
